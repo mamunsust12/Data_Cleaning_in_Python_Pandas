@@ -2,9 +2,7 @@
 (Useful for Data Mining, Machine Learning, Data Science and Data Analytics courses)
 
 Common Issues With Data
-
 ------------------------
-
 Reading the file
 
 Inconsistent Column Names
