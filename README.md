@@ -3,7 +3,7 @@
 
 Common Issues With Data
 ------------------------
-Reading the file
+Reading the file - Encoding Error,Inconsistent rows
 
 Inconsistent Column Names - Change Cases, Rename them
 
